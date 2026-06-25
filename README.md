@@ -1,3 +1,3 @@
 # May-Studio_Jeu-de-cartes
-if you wana help, go to this website :
+si tu veut aider, prend une tache ici :
 https://github.com/users/DARIUSISTOC1/projects/2
